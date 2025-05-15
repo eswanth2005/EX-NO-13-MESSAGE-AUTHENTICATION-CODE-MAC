@@ -70,7 +70,14 @@ void decrypt(char message[], int shift) {
 ```
 
 
+
+
+
+
+
+
 ## Output:
+
 
 ![image](https://github.com/user-attachments/assets/7e01599c-10fb-412d-9ba5-0ace63e10b55)
 
